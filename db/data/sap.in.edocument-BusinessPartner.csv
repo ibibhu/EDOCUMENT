@@ -1,0 +1,6 @@
+ID,Customer,Supplier,BusinessPartnerFullName,BusinessPartnerUUID,CreationDate,CreationTime,Email
+e8f9a5b7-6d8c-4a2e-9b5a-8d7f6e5c4b2a,CUST001,SUPP001,ACME Inc.,a1b2c3d4-5678-90ab-cdef-123456789abc,2023-09-01,12:00:00,acme@example.com
+d3e4f5a6-789a-bcde-f123-456789abcdef,CUST002,SUPP002,XYZ Ltd.,b2c3d4e5-6789-abcd-ef12-3456789abcf1,2023-09-02,13:30:00,xyz@example.com
+c2d3e4f5-5678-90ab-cdef-23456789abcd,CUST003,SUPP003,ABC Corp.,c3d4e5f6-789a-bcde-f123-456789abcdef,2023-09-03,14:45:00,abc@example.com
+b1c2d3e4-4a2e-9b5a-8d7f6e5c4b2b,CUST004,SUPP004,LMN LLC,d4e5f678-90ab-cdef-1234-567890abcdef,2023-09-04,15:15:00,lmn@example.com
+a0b1c2d3-789a-bcde-f123-456789abcdef1,CUST005,SUPP005,PQR Co.,e5f6a789-abc1-def2-3456-789abc1def23,2023-09-05,16:20:00,pqr@example.com
