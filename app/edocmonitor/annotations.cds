@@ -1,0 +1,1 @@
+using EdocService as service from '../../srv/edoc-service';
