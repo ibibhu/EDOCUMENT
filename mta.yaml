@@ -2,8 +2,7 @@ _schema-version: '3.1'
 ID: edocument
 version: 1.0.0
 description: "A simple CAP project."
-parameters:
-  enable-parallel-deployments: true
+
 modules:
   - name: edocument-srv
     type: nodejs
@@ -19,7 +18,6 @@ modules:
     requires:
       - name: edocument-db
       - name: edocument-auth
-
   - name: edocument-db-deployer
     type: hdb
     path: gen/db
